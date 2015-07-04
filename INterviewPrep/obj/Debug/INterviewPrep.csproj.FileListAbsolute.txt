@@ -1,0 +1,6 @@
+C:\Users\Payton\Desktop\INterviewPrep\INterviewPrep\bin\Debug\INterviewPrep.exe.config
+C:\Users\Payton\Desktop\INterviewPrep\INterviewPrep\bin\Debug\INterviewPrep.exe
+C:\Users\Payton\Desktop\INterviewPrep\INterviewPrep\bin\Debug\INterviewPrep.pdb
+C:\Users\Payton\Desktop\INterviewPrep\INterviewPrep\obj\Debug\INterviewPrep.csprojResolveAssemblyReference.cache
+C:\Users\Payton\Desktop\INterviewPrep\INterviewPrep\obj\Debug\INterviewPrep.exe
+C:\Users\Payton\Desktop\INterviewPrep\INterviewPrep\obj\Debug\INterviewPrep.pdb
